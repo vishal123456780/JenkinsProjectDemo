@@ -15,7 +15,7 @@ class JenkinsProjectDemoApplicationTests {
 	@Test
 	void contextLoads() {
 		logger.info("Test Case Executing  First Job....");
-		logger.info("Test Case Executing Second....");
+		logger.info("Test Case Executing Second Job....");
 		logger.info("Test Case Executing Third....");
 		assertEquals(true, true);
 	}
